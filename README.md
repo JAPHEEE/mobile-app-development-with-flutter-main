@@ -1,7 +1,7 @@
 Assignment two was for basic knowlegde of dart progamming language
 
 
-	MEMBERS GROUP THREE (  3   )
+	MEMBERS GROUP THREE (  2  )
 1.	OSTIN MWAMBALANGANIA                    26997/T.2021
 2.	JAPHET M MANYAMA                        26971/T.2021
 3.	ISAAcK A MWANKUSYE                      26965/T.2021
